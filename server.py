@@ -1,5 +1,6 @@
 from instagram import application
 
-print('Ban')
+print('ok')
+# Hitler did nothing wrong
 
 application.run()
